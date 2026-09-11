@@ -1,0 +1,6 @@
+{
+  "name": "Farm Blaster",
+  "description": "Arcade shooter where you defend the futuristic farm galaxy from waves of realistic invading chickens, falling eggs, and colossal bosses!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
